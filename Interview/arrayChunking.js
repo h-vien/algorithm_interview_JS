@@ -22,6 +22,7 @@ const chunk_2 = (arr, size) => {
   const chunk = [];
   let idx = 0;
   while (idx < arr.length) {
+    console.log(arr.slice(idx, idx + size), "here");
     chunk.push(arr.slice(idx, idx + size));
     idx += size;
   }
