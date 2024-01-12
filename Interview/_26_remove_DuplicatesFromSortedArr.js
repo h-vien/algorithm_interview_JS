@@ -1,4 +1,3 @@
-process.stdout.write("\33c");
 
 var removeDuplicates = function (nums) {
   const _arr = [...new Set(nums)];
