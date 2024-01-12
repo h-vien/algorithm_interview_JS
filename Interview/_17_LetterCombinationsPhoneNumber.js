@@ -11,13 +11,11 @@ const mappedNumber = {
 
 const letterCombinations = function (digits) {
     if (digits.length == 0) return [];
-
-
-    const iterate = (nums) => {
+    const combine = (nums) => {
         let arr = [];
         if (nums.length == 1) return mappedNumber[nums];
         let first = nums.slice(0, 1);
-        let others = iterate(nums.slice(1));
+        let others = combine(nums.slice(1));
         for (let digit of mappedNumber[first]) {
             for (let pairDigit of others) {
                 arr.push(digit + pairDigit);
@@ -26,7 +24,7 @@ const letterCombinations = function (digits) {
         return arr;
     }
 
-    return iterate(digits)
+    return combine(digits)
 
 };
 const res = letterCombinations('235')
