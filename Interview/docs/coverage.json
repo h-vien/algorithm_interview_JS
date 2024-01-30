@@ -1,0 +1,192 @@
+{
+  "coverage": "6%",
+  "expectCount": 50,
+  "actualCount": 3,
+  "files": {
+    "src/1_twoNums.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        15
+      ]
+    },
+    "src/_118_PascalTriangle.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        14
+      ]
+    },
+    "src/_13_RomanToInt.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        27,
+        36,
+        51
+      ]
+    },
+    "src/_14_longestCommonPrefix.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        4
+      ]
+    },
+    "src/_17_LetterCombinationsPhoneNumber.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        12,
+        30
+      ]
+    },
+    "src/_202_HappyNumber.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        14
+      ]
+    },
+    "src/_21_merge_2_sorted_lists.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        16
+      ]
+    },
+    "src/_2677_chunk.js": {
+      "expectCount": 4,
+      "actualCount": 1,
+      "undocumentLines": [
+        15,
+        18,
+        37
+      ]
+    },
+    "src/_26_remove_DuplicatesFromSortedArr.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        8
+      ]
+    },
+    "src/_27_removeElement.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        15
+      ]
+    },
+    "src/_28_implement_strStr.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/_35_SearchInsertPosition.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        13
+      ]
+    },
+    "src/_58_LengthofLastWord.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/_645_SetMismatch.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        13
+      ]
+    },
+    "src/_66_PlusOne.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/_67_AddBinary.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        24
+      ]
+    },
+    "src/_83_RemoveDuplicatesfromSortedList.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/anagram.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        14,
+        25,
+        28
+      ]
+    },
+    "src/arrayChunking.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        21
+      ]
+    },
+    "src/fizzBuzz.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/freecodecamp_cert.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        9,
+        38,
+        53
+      ]
+    },
+    "src/maxChars.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/reverseInt.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        19
+      ]
+    }
+  }
+}

@@ -1,0 +1,2325 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/1_twoNums.js",
+    "content": "var twoSum = function (nums, target) {\r\n  let x, y;\r\n  x = nums.findIndex((num1, index1) => {\r\n    y = nums.findIndex(\r\n      (num2, index2) => num1 + num2 === target && index1 !== index2\r\n    );\r\n    return ~y;\r\n  });\r\n  return [x, y];\r\n};\r\n\r\nconsole.log(twoSum([2, 7, 11, 15], 9));\r\nconsole.log(twoSum([3, 2, 4], 7));\r\n\r\nconst twoSum_2 = (nums, target) => {\r\n  let _arr = [];\r\n  const result = nums.filter(\r\n    (el) =>\r\n      nums.includes(target - el) &&\r\n      nums.indexOf(el) != nums.lastIndexOf(target - el)\r\n  );\r\n  return [nums.indexOf(result[0]), nums.lastIndexOf(result[1])];\r\n};\r\nconsole.log(twoSum_2([2, 7, 11, 15], 9));\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/1_twoNums.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "twoSum",
+    "memberof": "src/1_twoNums.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/1_twoNums.js~twoSum",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/1_twoNums.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "nums",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "target",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "twoSum_2",
+    "memberof": "src/1_twoNums.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/1_twoNums.js~twoSum_2",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/1_twoNums.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [
+      {
+        "name": "nums",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "target",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/_118_PascalTriangle.js",
+    "content": "var generate = function (numRows) {\n    let arr = []\n    for (let i = 0; i < numRows; i++) {\n        arr[i] = []\n        arr[i][0] = 1\n        arr[i][i] = 1\n        for (let j = 1; j < i; j++) {\n            arr[i][j] = arr[i - 1][j - 1] + arr[i - 1][j]\n        }\n    }\n    return arr\n};\n\nconst result = generate(5)\nconsole.log(result)",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_118_PascalTriangle.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "generate",
+    "memberof": "src/_118_PascalTriangle.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_118_PascalTriangle.js~generate",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_118_PascalTriangle.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "numRows",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "result",
+    "memberof": "src/_118_PascalTriangle.js",
+    "static": true,
+    "longname": "src/_118_PascalTriangle.js~result",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_118_PascalTriangle.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/_13_RomanToInt.js",
+    "content": "function convertToRoman(num) {\r\n  const decimalVal = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];\r\n  const romanNumber = [\r\n    \"M\",\r\n    \"CM\",\r\n    \"D\",\r\n    \"CD\",\r\n    \"C\",\r\n    \"XC\",\r\n    \"L\",\r\n    \"XL\",\r\n    \"X\",\r\n    \"IX\",\r\n    \"V\",\r\n    \"IV\",\r\n    \"I\",\r\n  ];\r\n  let result = \"\";\r\n  for (let i = 0; i < decimalVal.length; i++) {\r\n    while (num >= decimalVal[i]) {\r\n      result += romanNumber[i];\r\n      num -= decimalVal[i];\r\n    }\r\n  }\r\n  return result;\r\n}\r\nconst strToVal = {\r\n  I: 1,\r\n  V: 5,\r\n  X: 10,\r\n  L: 50,\r\n  C: 100,\r\n  D: 500,\r\n  M: 1000,\r\n};\r\nvar romanToInt = function (s) {\r\n  let sum = 0;\r\n  for (let i = 0; i < s.length; i++) {\r\n    const curVal = strToVal[s[i]];\r\n    const nextVal = s.length > i + 1 ? strToVal[s[i + 1]] : null;\r\n    if (nextVal && curVal < nextVal) {\r\n      sum += nextVal - curVal;\r\n      i++;\r\n    } else {\r\n      sum += curVal;\r\n    }\r\n  }\r\n  return sum;\r\n};\r\n\r\nconst calc = romanToInt(\"MCMXCIV\");\r\nconsole.log(calc);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_13_RomanToInt.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "convertToRoman",
+    "memberof": "src/_13_RomanToInt.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_13_RomanToInt.js~convertToRoman",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_13_RomanToInt.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "num",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "strToVal",
+    "memberof": "src/_13_RomanToInt.js",
+    "static": true,
+    "longname": "src/_13_RomanToInt.js~strToVal",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_13_RomanToInt.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"I\": number, \"V\": number, \"X\": number, \"L\": number, \"C\": number, \"D\": number, \"M\": number}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "romanToInt",
+    "memberof": "src/_13_RomanToInt.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_13_RomanToInt.js~romanToInt",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_13_RomanToInt.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "s",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "calc",
+    "memberof": "src/_13_RomanToInt.js",
+    "static": true,
+    "longname": "src/_13_RomanToInt.js~calc",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_13_RomanToInt.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 51,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/_14_longestCommonPrefix.js",
+    "content": "const strs = [\"flower\", \"flow\", \"flight\"];\r\nconst strs_2 = [\"dog\", \"racecar\", \"car\"];\r\n\r\nconst longestCommonPrefix = (strs) => {\r\n  let prefix = strs[0];\r\n  for (let i = 1; i < strs.length && prefix !== \"\"; i++) {\r\n    const string = strs[i];\r\n    let j = 0;\r\n    while (string[j] && string[j] === prefix[j]) {\r\n      j++;\r\n    }\r\n    prefix = string.substring(0, j);\r\n  }\r\n  console.log(prefix);\r\n};\r\n\r\nlongestCommonPrefix(strs);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_14_longestCommonPrefix.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "strs",
+    "memberof": "src/_14_longestCommonPrefix.js",
+    "static": true,
+    "longname": "src/_14_longestCommonPrefix.js~strs",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_14_longestCommonPrefix.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "strs_2",
+    "memberof": "src/_14_longestCommonPrefix.js",
+    "static": true,
+    "longname": "src/_14_longestCommonPrefix.js~strs_2",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_14_longestCommonPrefix.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "longestCommonPrefix",
+    "memberof": "src/_14_longestCommonPrefix.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_14_longestCommonPrefix.js~longestCommonPrefix",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_14_longestCommonPrefix.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "strs",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/_17_LetterCombinationsPhoneNumber.js",
+    "content": "const mappedNumber = {\n    2: ['a', 'b', 'c'],\n    3: ['d', 'e', 'f'],\n    4: ['g', 'h', 'i'],\n    5: ['j', 'k', 'l'],\n    6: ['m', 'n', 'o'],\n    7: ['p', 'q', 'r', 's'],\n    8: ['t', 'u', 'v'],\n    9: ['w', 'x', 'y', 'z'],\n}\n\nconst letterCombinations = function (digits) {\n    if (digits.length == 0) return [];\n    const combine = (nums) => {\n        let arr = [];\n        if (nums.length == 1) return mappedNumber[nums];\n        let first = nums.slice(0, 1);\n        let others = combine(nums.slice(1));\n        for (let digit of mappedNumber[first]) {\n            for (let pairDigit of others) {\n                arr.push(digit + pairDigit);\n            }\n        }\n        return arr;\n    }\n\n    return combine(digits)\n\n};\nconst res = letterCombinations('235')\nconsole.log(res)\n// letterCombinations(\"235\")",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_17_LetterCombinationsPhoneNumber.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "variable",
+    "name": "mappedNumber",
+    "memberof": "src/_17_LetterCombinationsPhoneNumber.js",
+    "static": true,
+    "longname": "src/_17_LetterCombinationsPhoneNumber.js~mappedNumber",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_17_LetterCombinationsPhoneNumber.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"2\": *, \"3\": *, \"4\": *, \"5\": *, \"6\": *, \"7\": *, \"8\": *, \"9\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "letterCombinations",
+    "memberof": "src/_17_LetterCombinationsPhoneNumber.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_17_LetterCombinationsPhoneNumber.js~letterCombinations",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_17_LetterCombinationsPhoneNumber.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "params": [
+      {
+        "name": "digits",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "variable",
+    "name": "res",
+    "memberof": "src/_17_LetterCombinationsPhoneNumber.js",
+    "static": true,
+    "longname": "src/_17_LetterCombinationsPhoneNumber.js~res",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_17_LetterCombinationsPhoneNumber.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/_202_HappyNumber.js",
+    "content": "console.log('test')\n\nvar isHappy = function (n) {\n    if (n === 1) return true\n    if (n < 10 && n !== 7) return false\n    let result = 0;\n    while (n > 0) {\n        let number = n % 10\n        n = Math.floor(n / 10)\n        result += Math.pow(number, 2)\n    }\n    return isHappy(result)\n};\nconst result = isHappy(7)\nconsole.log(result)",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_202_HappyNumber.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "isHappy",
+    "memberof": "src/_202_HappyNumber.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_202_HappyNumber.js~isHappy",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_202_HappyNumber.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "variable",
+    "name": "result",
+    "memberof": "src/_202_HappyNumber.js",
+    "static": true,
+    "longname": "src/_202_HappyNumber.js~result",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_202_HappyNumber.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/_21_merge_2_sorted_lists.js",
+    "content": "var mergeTwoLists = function (list1, list2) {\n    const arr = []\n    while (list1.length && list2.length) {\n        if (list1[0] < list2[0]) {\n            arr.push(list1.shift())\n        }\n        else {\n            arr.push(list2.shift())\n        }\n        console.log(arr, list1, list2)\n    }\n    return [...arr, ...list1, ...list2]\n};\n\n\nconst result = mergeTwoLists([1, 2, 4], [1, 3, 4])\nconsole.log(result)",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_21_merge_2_sorted_lists.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "mergeTwoLists",
+    "memberof": "src/_21_merge_2_sorted_lists.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_21_merge_2_sorted_lists.js~mergeTwoLists",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_21_merge_2_sorted_lists.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "list1",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "list2",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 72,
+    "kind": "variable",
+    "name": "result",
+    "memberof": "src/_21_merge_2_sorted_lists.js",
+    "static": true,
+    "longname": "src/_21_merge_2_sorted_lists.js~result",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_21_merge_2_sorted_lists.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/_2677_chunk.js",
+    "content": "/**\n * @param {Array} arr\n * @param {number} size\n * @return {Array}\n */\nconst chunk = function (arr, size) {\n    const res = [];\n    for (let i = 0; i < arr.length; i += size) {\n        const chunk = arr.slice(i, i + size);\n        res.push(chunk);\n    }\n    return res;\n};\n\nconst result = chunk([1, 2, 3, 4, 5], 3)\nconsole.log(result)\n\nfunction rotateArrayBruteForce(array, rotations) {\n    let counter = 0;\n\n    while (counter < rotations) {\n        for (let i = array.length - 1; i > 0; i--) {\n            const temp = array[i];\n            array[i] = array[i - 1];\n            array[0] = temp;\n        }\n\n        counter++;\n    }\n    return {\n        array,\n        counter,\n        rotations\n    }\n}\n\nconst rotateArrayBruteForceResult = rotateArrayBruteForce([1, 2, 3, 4, 5], 3)\nconsole.log(rotateArrayBruteForceResult)",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_2677_chunk.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "chunk",
+    "memberof": "src/_2677_chunk.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_2677_chunk.js~chunk",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_2677_chunk.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 6,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "size",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "variable",
+    "name": "result",
+    "memberof": "src/_2677_chunk.js",
+    "static": true,
+    "longname": "src/_2677_chunk.js~result",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_2677_chunk.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "rotateArrayBruteForce",
+    "memberof": "src/_2677_chunk.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_2677_chunk.js~rotateArrayBruteForce",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_2677_chunk.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "rotations",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"array\": *, \"counter\": *, \"rotations\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "variable",
+    "name": "rotateArrayBruteForceResult",
+    "memberof": "src/_2677_chunk.js",
+    "static": true,
+    "longname": "src/_2677_chunk.js~rotateArrayBruteForceResult",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_2677_chunk.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "src/_26_remove_DuplicatesFromSortedArr.js",
+    "content": "\r\nvar removeDuplicates = function (nums) {\r\n  const _arr = [...new Set(nums)];\r\n  nums.length = 0;\r\n  nums.push(..._arr);\r\n};\r\n\r\nconst k = removeDuplicates([1, 1, 2]);\r\n\r\nconsole.log(k);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_26_remove_DuplicatesFromSortedArr.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "removeDuplicates",
+    "memberof": "src/_26_remove_DuplicatesFromSortedArr.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_26_remove_DuplicatesFromSortedArr.js~removeDuplicates",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_26_remove_DuplicatesFromSortedArr.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "nums",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 80,
+    "kind": "variable",
+    "name": "k",
+    "memberof": "src/_26_remove_DuplicatesFromSortedArr.js",
+    "static": true,
+    "longname": "src/_26_remove_DuplicatesFromSortedArr.js~k",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_26_remove_DuplicatesFromSortedArr.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/_27_removeElement.js",
+    "content": "var removeElement = function (nums, val) {\n    let result = []\n    for (let i = 0; i < nums.length; i++) {\n        if (nums[i] !== val) {\n            result.push(nums[i])\n        }\n    }\n    const numsLength = result.length\n    for (let i = 0; i < nums.length; i++) {\n        nums[i] = result[i]\n    }\n    return numsLength\n};\n\nconst res = removeElement([3, 2, 2, 3], 3)\n\nconsole.log(res)",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_27_removeElement.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "removeElement",
+    "memberof": "src/_27_removeElement.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_27_removeElement.js~removeElement",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_27_removeElement.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "nums",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "val",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 83,
+    "kind": "variable",
+    "name": "res",
+    "memberof": "src/_27_removeElement.js",
+    "static": true,
+    "longname": "src/_27_removeElement.js~res",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_27_removeElement.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 84,
+    "kind": "file",
+    "name": "src/_28_implement_strStr.js",
+    "content": "const strStr = (haystack, needle) => {\r\n  if (!needle) return 0;\r\n  return haystack.indexOf(needle);\r\n};\r\n\r\nconsole.log(strStr(\"huynhvien\", \"vi\"));\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_28_implement_strStr.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 85,
+    "kind": "function",
+    "name": "strStr",
+    "memberof": "src/_28_implement_strStr.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_28_implement_strStr.js~strStr",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_28_implement_strStr.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "haystack",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "needle",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "src/_35_SearchInsertPosition.js",
+    "content": "const searchInsert = (nums, target) => {\r\n  let check = nums.includes(target);\r\n  if (!check) {\r\n    nums.push(target);\r\n  }\r\n  for ([idx, key] of Object.entries(nums.sort((a, b) => a - b))) {\r\n    if (key === target) {\r\n      return idx;\r\n    }\r\n  }\r\n};\r\n\r\nconst i = searchInsert([1, 3, 4, 5], 7);\r\nconsole.log(i);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_35_SearchInsertPosition.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "function",
+    "name": "searchInsert",
+    "memberof": "src/_35_SearchInsertPosition.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_35_SearchInsertPosition.js~searchInsert",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_35_SearchInsertPosition.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "nums",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "target",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 88,
+    "kind": "variable",
+    "name": "i",
+    "memberof": "src/_35_SearchInsertPosition.js",
+    "static": true,
+    "longname": "src/_35_SearchInsertPosition.js~i",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_35_SearchInsertPosition.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "src/_58_LengthofLastWord.js",
+    "content": "var lengthOfLastWord = function (s) {\r\n  const _str = s.trim().split(\" \");\r\n\r\n  return _str[_str.length - 1].length;\r\n};\r\n\r\nconsole.log(lengthOfLastWord(\"Huynh dinh honag vien         \"));\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_58_LengthofLastWord.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "function",
+    "name": "lengthOfLastWord",
+    "memberof": "src/_58_LengthofLastWord.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_58_LengthofLastWord.js~lengthOfLastWord",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_58_LengthofLastWord.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "s",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "src/_645_SetMismatch.js",
+    "content": "/**\n * @param {number[]} nums\n * @return {number[]}\n */\nconst findErrorNums = function (nums) {\n    const arr = new Array(nums.length + 1).fill(0);\n    for (let i = 0; i < nums.length; i++) {\n        arr[nums[i]]++;\n    }\n    return [arr.indexOf(2), arr.lastIndexOf(0)];\n};\n\nconst result = findErrorNums([3, 2, 3, 4, 6, 5])",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_645_SetMismatch.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "findErrorNums",
+    "memberof": "src/_645_SetMismatch.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_645_SetMismatch.js~findErrorNums",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_645_SetMismatch.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 5,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "nums",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 93,
+    "kind": "variable",
+    "name": "result",
+    "memberof": "src/_645_SetMismatch.js",
+    "static": true,
+    "longname": "src/_645_SetMismatch.js~result",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_645_SetMismatch.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "src/_66_PlusOne.js",
+    "content": "const plusOne = (digits) => {\r\n  let add = 1;\r\n  for (let i = digits.length - 1; i >= 0; i--) {\r\n    if (add === 1) {\r\n      if (digits[i] === 9) {\r\n        digits[i] = 0;\r\n      } else {\r\n        digits[i] += 1;\r\n        add = 0;\r\n        break;\r\n      }\r\n    } else {\r\n      break;\r\n    }\r\n  }\r\n  if (add === 1) digits.unshift(1);\r\n\r\n  return digits;\r\n};\r\n\r\n// console.log(plusOne([6, 1, 4, 5, 3, 9, 0, 1, 9, 5, 1, 8, 6, 7, 0, 5, 3, 4, 3]));\r\n\r\nconsole.log(plusOne([9]));\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_66_PlusOne.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "plusOne",
+    "memberof": "src/_66_PlusOne.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_66_PlusOne.js~plusOne",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_66_PlusOne.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "digits",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 96,
+    "kind": "file",
+    "name": "src/_67_AddBinary.js",
+    "content": "/**\n * @param {string} a\n * @param {string} b\n * @return {string}\n */\nconst addBinary = function(a, b) {\n    const lengthA = a.length;\n    const lengthB = b.length;   \n    const length = Math.max(lengthA, lengthB);\n    let result = '';\n\n    let carry = 0;\n    for( let i = 0; i< length; i ++ ){\n        let digitA = i < lengthA ? a[lengthA - 1] : 0\n        let digitB = i <lengthB ? b[lengthB - 1] : 0\n        let sum = Number(digitA) + Number(digitB)\n        const convertedToBit =  sum >= 2 ? '0' : '1'\n        console.log(convertedToBit,'convertedToBit')\n        console.log(digitA, digitB, sum)\n    }\n\n};\n\nconst  res = addBinary('11', '1');\nconsole.log(res)\n\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_67_AddBinary.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "addBinary",
+    "memberof": "src/_67_AddBinary.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_67_AddBinary.js~addBinary",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_67_AddBinary.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 6,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 98,
+    "kind": "variable",
+    "name": "res",
+    "memberof": "src/_67_AddBinary.js",
+    "static": true,
+    "longname": "src/_67_AddBinary.js~res",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_67_AddBinary.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 99,
+    "kind": "file",
+    "name": "src/_83_RemoveDuplicatesfromSortedList.js",
+    "content": "var deleteDuplicates = function (head) {\n    let curr = head\n    while (curr && curr.next) {\n        if (curr.val === curr.next.val) {\n            curr.next = curr.next.next\n        } else {\n            curr = curr.next\n        }\n    }\n    return head\n};",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/_83_RemoveDuplicatesfromSortedList.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "function",
+    "name": "deleteDuplicates",
+    "memberof": "src/_83_RemoveDuplicatesfromSortedList.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_83_RemoveDuplicatesfromSortedList.js~deleteDuplicates",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/_83_RemoveDuplicatesfromSortedList.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "head",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 101,
+    "kind": "file",
+    "name": "src/anagram.js",
+    "content": "const anagrams = (strA, strB) => {\r\n  const aCharMap = buildCharMap(strA);\r\n  const bCharMap = buildCharMap(strB);\r\n  if (Object.keys(aCharMap).length !== Object.keys(bCharMap).length) {\r\n    return false;\r\n  }\r\n  for (let char in aCharMap) {\r\n    if (aCharMap[char] !== bCharMap[char]) {\r\n      return false;\r\n    }\r\n  }\r\n  return true;\r\n};\r\nconst buildCharMap = (str) => {\r\n  const charMap = {};\r\n  for (let char of str.replace(/[^\\w]/g, \"\").toLowerCase()) {\r\n    charMap[char] = charMap[char] + 1 || 1;\r\n  }\r\n  return charMap;\r\n};\r\nconsole.log(anagrams(\"hehe tada\", \"haha tede\"));\r\n\r\n//! ============= Way 2 ======================= !//\r\n\r\nconst anagrams_2 = (strA, strB) => {\r\n  return cleanString(strA) === cleanString(strB);\r\n};\r\nconst cleanString = (str) => {\r\n  return str\r\n    .replace(/[^\\w]/g, \"\")\r\n    .toLowerCase()\r\n    .toLowerCase()\r\n    .split(\"\")\r\n    .sort()\r\n    .join(\"\");\r\n};\r\nconsole.log(anagrams_2(\"hehe tada\", \"haha tede\"));\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/anagram.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "anagrams",
+    "memberof": "src/anagram.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/anagram.js~anagrams",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/anagram.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "strA",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "strB",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 103,
+    "kind": "function",
+    "name": "buildCharMap",
+    "memberof": "src/anagram.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/anagram.js~buildCharMap",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/anagram.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [
+      {
+        "name": "str",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 104,
+    "kind": "function",
+    "name": "anagrams_2",
+    "memberof": "src/anagram.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/anagram.js~anagrams_2",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/anagram.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "params": [
+      {
+        "name": "strA",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "strB",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 105,
+    "kind": "function",
+    "name": "cleanString",
+    "memberof": "src/anagram.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/anagram.js~cleanString",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/anagram.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [
+      {
+        "name": "str",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 106,
+    "kind": "file",
+    "name": "src/arrayChunking.js",
+    "content": "//* Example\r\n// ? chunk([1,2,3,4],2) => [[1,2],[3,4]]\r\n// ? chunk([1,2,3,4,5,6],4) => [[1,2,3,4],[5,6]]\r\nconst chunk = (arr, size) => {\r\n  const _arr = [];\r\n  for (let el of arr) {\r\n    const last = _arr[_arr.length - 1];\r\n    if (!last || last.length === size) {\r\n      _arr.push([el]);\r\n    } else {\r\n      last.push(el);\r\n    }\r\n  }\r\n  console.log(_arr);\r\n  return _arr;\r\n};\r\n\r\n// chunk([1, 2, 3, 4], 2);\r\n// chunk([1, 2, 3, 4, 5, 6], 4);\r\n\r\nconst chunk_2 = (arr, size) => {\r\n  const chunk = [];\r\n  let idx = 0;\r\n  while (idx < arr.length) {\r\n    console.log(arr.slice(idx, idx + size), \"here\");\r\n    chunk.push(arr.slice(idx, idx + size));\r\n    idx += size;\r\n  }\r\n  console.log(chunk);\r\n};\r\nchunk_2([1, 2, 3, 4], 2);\r\nchunk_2([1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 12, 12, 3, 123, 123], 5);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/arrayChunking.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 107,
+    "kind": "function",
+    "name": "chunk",
+    "memberof": "src/arrayChunking.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/arrayChunking.js~chunk",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/arrayChunking.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arr",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "size",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 108,
+    "kind": "function",
+    "name": "chunk_2",
+    "memberof": "src/arrayChunking.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/arrayChunking.js~chunk_2",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/arrayChunking.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arr",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "size",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 109,
+    "kind": "file",
+    "name": "src/fizzBuzz.js",
+    "content": "const fizzbuzz = (n) => {\r\n  for (let i = 0; i <= n; i++) {\r\n    if (i % 3 === 0 && i % 5 === 0) {\r\n      console.log(\"FizzBuzz\");\r\n    } else if (i % 3 === 0) {\r\n      console.log(\"fizz\");\r\n    } else if (i % 5 === 0) {\r\n      console.log(\"buzz\");\r\n    } else console.log(i);\r\n  }\r\n};\r\nfizzbuzz(15);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/fizzBuzz.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 110,
+    "kind": "function",
+    "name": "fizzbuzz",
+    "memberof": "src/fizzBuzz.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fizzBuzz.js~fizzbuzz",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/fizzBuzz.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 111,
+    "kind": "file",
+    "name": "src/freecodecamp_cert.js",
+    "content": "function palindrome_fcc(str) {\r\n  str = str.replace(/[^a-zA-Z0-9]/gi, \"\").toLowerCase();\r\n  console.log(str);\r\n  return str === str.split(\"\").reverse().join(\"\");\r\n}\r\n\r\nconsole.log(palindrome_fcc(\"_eye\"));\r\n\r\nfunction convertToRoman(num) {\r\n  const decimalVal = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];\r\n  const romanNumber = [\r\n    \"M\",\r\n    \"CM\",\r\n    \"D\",\r\n    \"CD\",\r\n    \"C\",\r\n    \"XC\",\r\n    \"L\",\r\n    \"XL\",\r\n    \"X\",\r\n    \"IX\",\r\n    \"V\",\r\n    \"IV\",\r\n    \"I\",\r\n  ];\r\n  let result = \"\";\r\n  for (let i = 0; i < decimalVal.length; i++) {\r\n    while (num >= decimalVal[i]) {\r\n      result += romanNumber[i];\r\n      num -= decimalVal[i];\r\n    }\r\n  }\r\n  return result;\r\n}\r\n\r\nconsole.log(convertToRoman(44));\r\n\r\nfunction rot13(str) {\r\n  const alphabets = \"NOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ\";\r\n  return str\r\n    .split(\"\")\r\n    .map((letter) => {\r\n      const idx = alphabets.lastIndexOf(letter);\r\n      if (idx === -1) return letter;\r\n\r\n      return alphabets[idx - 13];\r\n    })\r\n    .join(\"\");\r\n}\r\n\r\nconsole.log(rot13(\"SERR CVMMN!\"));\r\n\r\nfunction checkCashRegister(price, cash, cid) {\r\n  const unitMap = {\r\n    PENNY: 0.01,\r\n    NICKEL: 0.05,\r\n    DIME: 0.1,\r\n    QUARTER: 0.25,\r\n    ONE: 1,\r\n    FIVE: 5.0,\r\n    TEN: 10.0,\r\n    TWENTY: 20.0,\r\n    \"ONE HUNDERED\": 100.0,\r\n  };\r\n  let totalCID = 0;\r\n  for (let money of cid) {\r\n    totalCID += money[1];\r\n  }\r\n  totalCID = totalCID.toFixed(2);\r\n  let changeToGive = cash - price;\r\n  const changeArr = [];\r\n  if (changeToGive > totalCID) {\r\n    return { status: \"INSUFFICIENT_FUNDS\", change: [] };\r\n  } else if (changeToGive.toFixed(2) === totalCID) {\r\n    return {\r\n      status: \"CLOSED\",\r\n      change: cid,\r\n    };\r\n  } else {\r\n    cid = cid.reverse();\r\n    for (let money of cid) {\r\n      const [unit, val] = money;\r\n      const addition = [unit, 0];\r\n      while (changeToGive >= unitMap[unit] && val > 0) {\r\n        addition[1] += unitMap[unit];\r\n        val -= unitMap[unit];\r\n        changeToGive -= unitMap[unit];\r\n        changeToGive = changeToGive.toFixed(2);\r\n      }\r\n      if (addition[1] > 0) {\r\n        changeArr.push(addition);\r\n      }\r\n    }\r\n  }\r\n  if (changeToGive > 0) {\r\n    return {\r\n      status: \"INSUFFICIENT_FUNDS\",\r\n      change: [],\r\n    };\r\n  }\r\n  return {\r\n    status: \"OPEN\",\r\n    change: changeArr,\r\n  };\r\n}\r\n\r\ncheckCashRegister(19.5, 20, [\r\n  [\"PENNY\", 1.01],\r\n  [\"NICKEL\", 2.05],\r\n  [\"DIME\", 3.1],\r\n  [\"QUARTER\", 4.25],\r\n  [\"ONE\", 90],\r\n  [\"FIVE\", 55],\r\n  [\"TEN\", 20],\r\n  [\"TWENTY\", 60],\r\n  [\"ONE HUNDRED\", 100],\r\n]);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/freecodecamp_cert.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 112,
+    "kind": "function",
+    "name": "palindrome_fcc",
+    "memberof": "src/freecodecamp_cert.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/freecodecamp_cert.js~palindrome_fcc",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/freecodecamp_cert.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "str",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 113,
+    "kind": "function",
+    "name": "convertToRoman",
+    "memberof": "src/freecodecamp_cert.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/freecodecamp_cert.js~convertToRoman",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/freecodecamp_cert.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "num",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 114,
+    "kind": "function",
+    "name": "rot13",
+    "memberof": "src/freecodecamp_cert.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/freecodecamp_cert.js~rot13",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/freecodecamp_cert.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [
+      {
+        "name": "str",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 115,
+    "kind": "function",
+    "name": "checkCashRegister",
+    "memberof": "src/freecodecamp_cert.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/freecodecamp_cert.js~checkCashRegister",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/freecodecamp_cert.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 53,
+    "undocument": true,
+    "params": [
+      {
+        "name": "price",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "cash",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "cid",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"status\": string, \"change\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 116,
+    "kind": "file",
+    "name": "src/maxChars.js",
+    "content": "const maxChar = (str) => {\r\n  const charMap = {};\r\n  let max = 0;\r\n  let maxChar = \"\";\r\n  for (let char of str) {\r\n    // if (charMap[char]) {\r\n    //   charMap[char]++;\r\n    // } else {\r\n    //   charMap[char] = 1;\r\n    // }\r\n    charMap[char] = charMap[char] + 1 || 1;\r\n  }\r\n  for (let char in charMap) {\r\n    if (charMap[char] > max) {\r\n      max = charMap[char];\r\n      maxChar = char;\r\n    }\r\n  }\r\n  return maxChar;\r\n};\r\nconsole.log(maxChar(\"ababbcccccccccccccccccccccccdddddddd\"));\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/maxChars.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 117,
+    "kind": "function",
+    "name": "maxChar",
+    "memberof": "src/maxChars.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/maxChars.js~maxChar",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/maxChars.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "str",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 118,
+    "kind": "file",
+    "name": "src/reverseInt.js",
+    "content": "const reverseInt = (n) => {\r\n  let reversed = String(n).split(\"\").reverse();\r\n  let data;\r\n  if (n > 0) {\r\n    data = reversed.join(\"\");\r\n  } else {\r\n    reversed = String(n).split(\"\").reverse();\r\n    reversed.splice(-1, 1);\r\n    data = -Number(reversed.join(\"\"));\r\n  }\r\n  return +data;\r\n};\r\n\r\nconsole.log(reverseInt(15) === 51);\r\nconsole.log(reverseInt(981) === 189);\r\nconsole.log(reverseInt(500) === 5);\r\nconsole.log(reverseInt(-15) === -51);\r\n\r\nconst reverseInt_2 = (n) => {\r\n  const reversed = String(n).split(\"\").reverse().join(\"\");\r\n  return parseInt(reversed) * Math.sign(n);\r\n};\r\nconsole.log(reverseInt_2(15) === 51);\r\nconsole.log(reverseInt_2(981) === 189);\r\nconsole.log(reverseInt_2(500) === 5);\r\nconsole.log(reverseInt_2(-15) === -51);\r\n",
+    "static": true,
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/src/reverseInt.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 119,
+    "kind": "function",
+    "name": "reverseInt",
+    "memberof": "src/reverseInt.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reverseInt.js~reverseInt",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/reverseInt.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 120,
+    "kind": "function",
+    "name": "reverseInt_2",
+    "memberof": "src/reverseInt.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reverseInt.js~reverseInt_2",
+    "access": "public",
+    "export": false,
+    "importPath": "./src/reverseInt.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "",
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\"\n  }\n}\n",
+    "longname": "/Users/vienhuynh/Learn/Code/algorithm_interview_JS/Interview/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
